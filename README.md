@@ -9,7 +9,7 @@ The application runs the basic tic-tac-toe game in a digital form. It enables th
  <img src="./project_glimpse/home_page.png" width="200" > 
  <img src="./project_glimpse/img1.png" width="200" >
  <img src="./project_glimpse/img2.png" width="200">
- 
+
  ## Show some ❤️ and star the repo to support the project.
  ### Getting Started
 This project is a starting point for a Flutter application.
